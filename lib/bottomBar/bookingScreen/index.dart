@@ -243,7 +243,7 @@ class _BookingScreenState extends State<BookingScreen> {
                 InkWell(
                   onTap: (){
 
-
+print('blaaaa');
                   },
                   child: Center(
                     child:  Container(
